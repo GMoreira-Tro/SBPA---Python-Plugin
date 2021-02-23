@@ -1,0 +1,30 @@
+637	sim/cockpit/electrical/avionics_on	int	y	bool	Is there power to the avionics
+704	sim/cockpit/misc/barometer_setting	float	y	???	The pilots altimeter setting
+812	sim/cockpit/radios/transponder_code	int	y	code	Our transponder code.
+816	sim/cockpit/radios/transponder_mode	int	y	enum	"Transponder mode (off=0,stdby=1,on=2,test=3)"
+906	sim/cockpit/warnings/annunciators/low_vacuum	int	y	boolean	low vacuum pressure
+1600	sim/flightmodel/position/indicated_airspeed	float	n	kias	Air speed indicated - this takes into account air density and wind direction
+2473	sim/operation/failures/rel_ss_tsi	int	y	failure_enum	Turn indicator (Pilot)
+3303	sim/cockpit2/gauges/indicators/altitude_ft_pilot	float	n	feet	"Indicated height, MSL, in feet, primary system, based on pilots barometric pressure input."
+3305	sim/cockpit2/gauges/indicators/vvi_fpm_pilot	float	n	feet/minute	"Indicated vertical speed in feet per minute, pilot system."
+3299	sim/cockpit2/gauges/indicators/slip_deg	float	n	degrees	"Slip indication, in degrees of ball deflection from centered."
+3309	sim/cockpit2/gauges/indicators/turn_rate_heading_deg_pilot	float	n	degrees	"Indicated rate-of-turn, in degrees deflection, for old-style turn-indicators.  Pilot side."3402	sim/cockpit2/radios/actuators/audio_com_selection	int	y	enum	"6=com1,7=com2"
+3404	sim/cockpit2/radios/actuators/audio_dme_enabled	int	y	boolean	Is DME audio enabled?  This only matters if the current selection has DME
+3405	sim/cockpit2/radios/actuators/audio_marker_enabled	int	y	boolean	Is audio for the marker beacons enabled?
+3457	sim/cockpit2/radios/indicators/outer_marker_lit	int	y	boolean	"Marker light actually lit, 0 or 1.  This flashes as we go over."	
+3458	sim/cockpit2/radios/indicators/middle_marker_lit	int	y	boolean	"Marker light actually lit, 0 or 1."	This flashes as we go over.
+3459	sim/cockpit2/radios/indicators/inner_marker_lit	int	y	boolean	"Marker light actually lit, 0 or 1."	This flashes as we go over.
+3588	sim/cockpit2/radios/actuators/audio_selection_nav1	int	y	enum	""
+3589	sim/cockpit2/radios/actuators/audio_selection_nav2	int	y	enum	""
+3591	sim/cockpit2/radios/actuators/audio_selection_adf1	int	y	enum	""
+3592	sim/cockpit2/radios/actuators/audio_selection_adf2	int	y	enum	""
+4042	%sim/transponder/transponder_ident
+9000.0	sim/cockpit/warnings/annunciators/fuel_pressure_low	int[8]	y	boolean	fuel pressure low - per engine
+9000.1	sim/cockpit/warnings/annunciators/fuel_pressure_low	int[8]	y	boolean	fuel pressure low - per engine
+9001	sim/cockpit/warnings/annunciators/gear_unsafe	int	y	boolean	gear is unsafe
+9002.0	sim/cockpit/warnings/annunciators/generator_off	int[8]	y	boolean	generator off - per engine
+9002.1	sim/cockpit/warnings/annunciators/generator_off	int[8]	y	boolean	generator off - per engine
+9003.0	sim/cockpit/warnings/annunciators/oil_temperature_high	int[8]	y	boolean	oil temperature high - per engine
+9003.1	sim/cockpit/warnings/annunciators/oil_temperature_high	int[8]	y	boolean	oil temperature high - per engine
+9005.0	sim/cockpit2/engine/indicators/engine_speed_rpm	float[8]	n	revolutions/minute	Engine speed, radians per second
+9005.1	sim/cockpit2/engine/indicators/engine_speed_rpm	float[8]	n	revolutions/minute	Engine speed, radians per second

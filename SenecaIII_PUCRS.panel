@@ -1,0 +1,1241 @@
+{
+    "aircraft": {
+        "path": ".acf"
+    },
+    "configuration": [
+        {
+            "show_connection_status": true
+        }
+    ],
+    "info": [
+        {
+            "editor_version": "0.94.0-0-RC-x32-win [DEBUG-BUILD] [Quality:Fast]",
+            "editor_platform": "WindowsEditor",
+            "system_language": "Portuguese",
+            "unity_runtime": "4.3.2f1",
+            "ip_address": "191.4.205.23",
+            "timestamp": "2/18/2021 6:04:28 PM",
+            "timestamp_utc": "2/18/2021 9:04:28 PM"
+        }
+    ],
+    "instruments": [
+        {
+            "name": "004-general-thermometer-design_01",
+            "asset": "004-general-thermometer-design_01",
+            "position": [
+                -8.181436,
+                0.3,
+                -10.62155
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3500004,
+                0.3500004,
+                0.3500004
+            ],
+            "dataref_ids": [
+                "degree_type",
+                "degree_value",
+                "degree_value",
+                "degree_value",
+                "degree_value"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "degree_symbol"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "007-general-VSI-united_instruments_7000",
+            "asset": "007-general-VSI-united_instruments_7000",
+            "position": [
+                -1.404333,
+                0.6,
+                3.49
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.8,
+                0.8,
+                0.8
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "015-general-brakes_indicator-design_01",
+            "asset": "015-general-brakes_indicator-design_01",
+            "position": [
+                6.75666,
+                1.4,
+                10.10261
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3500006,
+                0.3500006,
+                0.3500006
+            ],
+            "dataref_ids": [
+                "light_on_off"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "hoop",
+                "light_off",
+                "light_on"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "017-general-elevator_trim-design_01",
+            "asset": "017-general-elevator_trim-design_01",
+            "position": [
+                3.5,
+                1.6,
+                9.81
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.46,
+                0.46,
+                0.46
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "021-general-flap_indicator_40deg-desgin_01",
+            "asset": "021-general-flap_indicator_40deg-desgin_01",
+            "position": [
+                9.95,
+                2.1,
+                9.59
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.333,
+                0.333,
+                0.333
+            ],
+            "dataref_ids": [
+                "button"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "button"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "024-general-ADI-KI256",
+            "asset": "024-general-ADI-KI256",
+            "position": [
+                6.717198,
+                2.2,
+                -5.165003
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7000003,
+                0.7000003,
+                0.7000003
+            ],
+            "dataref_ids": [
+                "background_translate",
+                "background_rotate",
+                "dh_on_off",
+                "hm_boomerang_on",
+                "hm_boomerang_translate",
+                "hm_boomerang_rotate",
+                "adi_pitch_translate",
+                "adi_pitch_rotate",
+                "adi_roll",
+                "adi_vbar"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "arrow",
+                "background",
+                "base",
+                "dh_off",
+                "dh_on",
+                "horizontal_marker",
+                "horizontal_marker_boomerang",
+                "mask",
+                "pitch",
+                "roll",
+                "structure"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "026-general-vsalt_indicators-design_01",
+            "asset": "026-general-vsalt_indicators-design_01",
+            "position": [
+                -2.1,
+                2.6,
+                -9.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3000004,
+                0.3000004,
+                0.3000004
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "070-general-annunciator-KA285",
+            "asset": "070-general-annunciator-KA285",
+            "position": [
+                6.60632,
+                3,
+                -8.582842
+            ],
+            "rotation": [
+                0,
+                359.75,
+                0
+            ],
+            "scale": [
+                0.6000004,
+                0.6000004,
+                0.6000004
+            ],
+            "dataref_ids": [
+                "alt_off_on",
+                "ap_off_on",
+                "appr_off_on",
+                "arm_off_on",
+                "bc_off_on",
+                "cpld_off_on",
+                "fd_off_on",
+                "ga_off_on",
+                "gs_off_on",
+                "hdg_off_on",
+                "loc_off_on",
+                "nav_off_on",
+                "trim_off_on"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "alt_off",
+                "alt_on",
+                "ap_off",
+                "ap_on",
+                "appr_off",
+                "appr_on",
+                "arm_off",
+                "arm_on",
+                "base",
+                "bc_off",
+                "bc_on",
+                "cpld_off",
+                "cpld_on",
+                "fd_off",
+                "fd_on",
+                "ga_off",
+                "ga_on",
+                "gs_off",
+                "gs_on",
+                "hdg_off",
+                "hdg_on",
+                "hoop",
+                "loc_off",
+                "loc_on",
+                "nav_off",
+                "nav_on",
+                "trim_off",
+                "trim_on"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "023-senecaII-v1-cyl_head_temp[0]",
+            "asset": "023-senecaII-v1-cyl_head_temp[0]",
+            "position": [
+                15.73098,
+                3,
+                10.41914
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3000004,
+                0.3000004,
+                0.3000004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "039-senecaV-v1-airspeed_TAS",
+            "asset": "039-senecaV-v1-airspeed_TAS",
+            "position": [
+                14.73631,
+                0.1,
+                -5.104646
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7200001,
+                0.7200001,
+                0.7200001
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "disc",
+                "hoop",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "040-senecaII-v1-oil_temp[0]",
+            "asset": "040-senecaII-v1-oil_temp[0]",
+            "position": [
+                15.76289,
+                3,
+                7.365697
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3000004,
+                0.3000004,
+                0.3000004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "042-senecaII-v1-fuel[0]",
+            "asset": "042-senecaII-v1-fuel[0]",
+            "position": [
+                23.15302,
+                3,
+                9.457205
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3750004,
+                0.3750004,
+                0.3750004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "044-senecaII-v1-cyl_head_temp[1]",
+            "asset": "044-senecaII-v1-cyl_head_temp[1]",
+            "position": [
+                12.80003,
+                3,
+                10.42292
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3000004,
+                0.3000004,
+                0.3000004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "045-senecaII-v1-oil_temp[1]",
+            "asset": "045-senecaII-v1-oil_temp[1]",
+            "position": [
+                12.80799,
+                3,
+                7.373622
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3000004,
+                0.3000004,
+                0.3000004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "041-senecaII-v1-oil_press[0]",
+            "asset": "041-senecaII-v1-oil_press[0]",
+            "position": [
+                15.76276,
+                3,
+                8.894322
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3000004,
+                0.3000004,
+                0.3000004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "046-senecaII-v1-oil_press[1]",
+            "asset": "046-senecaII-v1-oil_press[1]",
+            "position": [
+                12.81996,
+                3,
+                8.890289
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3000004,
+                0.3000004,
+                0.3000004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "047-senecaII-v1-fuel[1]",
+            "asset": "047-senecaII-v1-fuel[1]",
+            "position": [
+                19.4817,
+                3,
+                9.449122
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3750004,
+                0.3750004,
+                0.3750004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "050-senecaII-v1-MAP",
+            "asset": "050-senecaII-v1-MAP",
+            "position": [
+                -8.076266,
+                3,
+                -6.62475
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5000005,
+                0.5000005,
+                0.5000005
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "012-senecaV-v1-generator_amps[0]",
+            "asset": "012-senecaV-v1-generator_amps[0]",
+            "position": [
+                23.15301,
+                3,
+                7.515703
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3750004,
+                0.3750004,
+                0.3750004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "027-senecaV-v1-generator_amps[1]",
+            "asset": "027-senecaV-v1-generator_amps[1]",
+            "position": [
+                19.46958,
+                3,
+                7.507779
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3750004,
+                0.3750004,
+                0.3750004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "096-SenecaIII-RPM",
+            "asset": "096-SenecaIII-RPM",
+            "position": [
+                -8.067884,
+                0.1,
+                -1.647689
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.4750005,
+                0.4750005,
+                0.4750005
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "030-senecaV-v1-CHT_EGT[1]",
+            "asset": "030-senecaV-v1-CHT_EGT[1]",
+            "position": [
+                -14.10261,
+                0.5,
+                3.421147
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                -0.6999995,
+                -0.6999995,
+                -0.6999995
+            ],
+            "dataref_ids": [
+                "needle_cht",
+                "needle_egt"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "bottom",
+                "disc",
+                "hoop",
+                "needle_cht",
+                "needle_egt",
+                "pin"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "107-general-DME",
+            "asset": "107-general-DME",
+            "position": [
+                6.634029,
+                0.1,
+                -0.65
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.2,
+                0.2,
+                0.15
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "099-SenecaIII-Gyro",
+            "asset": "099-SenecaIII-Gyro",
+            "position": [
+                -1.339876,
+                0.2,
+                9.433971
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.4250005,
+                0.4250005,
+                0.4250005
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "097-SenecaIII-EGT",
+            "asset": "097-SenecaIII-EGT",
+            "position": [
+                -8.043471,
+                0.1,
+                3.384674
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.4750005,
+                0.4750005,
+                0.4750005
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "101-SenecaIII-CowlFlaps",
+            "asset": "101-SenecaIII-CowlFlaps",
+            "position": [
+                -12.21,
+                0.1,
+                8.77
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.1750001,
+                0.4750005,
+                0.4750005
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "095-senecaIII-warnings",
+            "asset": "095-senecaIII-warnings",
+            "position": [
+                20.99598,
+                0.1,
+                -10.35571
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.6250004,
+                0.6250004,
+                -0.175
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "111-general_altimeter_v2",
+            "asset": "111-general_altimeter_v2",
+            "position": [
+                -1.494992,
+                0.1,
+                -4.44
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7200001,
+                0.7200001,
+                0.7200001
+            ],
+            "dataref_ids": [
+                "needle100",
+                "needle1000",
+                "needle10000"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "background",
+                "button",
+                "detail",
+                "disc_center",
+                "millibars",
+                "inhg",
+                "hoop",
+                "needle100",
+                "needle1000",
+                "needle10000",
+                "zebra_indicator"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "002-general-VOR2-MD200_206",
+            "asset": "002-general-VOR2-MD200_206",
+            "position": [
+                22.00123,
+                0.1,
+                -5.156837
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.6500002,
+                0.6500002,
+                0.6500002
+            ],
+            "dataref_ids": [
+                "compass",
+                "flags",
+                "needle",
+                "vertneedle",
+                "flaggs"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "compass",
+                "flags",
+                "guides",
+                "led",
+                "needle",
+                "vertneedle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "011-general-RMI_520_3117_303",
+            "asset": "011-general-RMI_520_3117_303",
+            "position": [
+                14.60235,
+                0.1,
+                2.506285
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7250003,
+                0.7250003,
+                0.7250003
+            ],
+            "dataref_ids": [
+                "button_left",
+                "button_right",
+                "disc",
+                "needle_1_rmi_left_use",
+                "needle_1_psi_vac",
+                "needle_1_adf1",
+                "needle_1_nav1",
+                "needle_2_rmi_right_use",
+                "needle_2_psi_vac",
+                "needle_2_adf2",
+                "needle_2_nav2"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "background",
+                "button_left_horizontal",
+                "button_left_vertical",
+                "button_right_horizontal",
+                "button_right_vertical",
+                "disc",
+                "disc_mid",
+                "indicators",
+                "needle_1",
+                "needle_2",
+                "octagon",
+                "octagram",
+                "top"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "112-general-turn_coordinator-new",
+            "asset": "112-general-turn_coordinator-new",
+            "position": [
+                22.05356,
+                0.1,
+                2.549961
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.6750003,
+                0.6750003,
+                0.6750003
+            ],
+            "dataref_ids": [
+                "roll",
+                "slip"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "bars",
+                "base",
+                "roll",
+                "slip"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "113-HSI-PUC-FACA",
+            "asset": "113-HSI-PUC-FACA",
+            "position": [
+                6.689473,
+                0.1,
+                3.73
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7000003,
+                0.7000003,
+                0.7000003
+            ],
+            "dataref_ids": [
+                "compass",
+                "flags-flag",
+                "flags-rot",
+                "gsmarker",
+                "hdg",
+                "needle",
+                "needlemid-trans",
+                "needlemid-rot",
+                "topflags",
+                "glideslope"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "basetop",
+                "compass",
+                "flags",
+                "gsmarker",
+                "hdg",
+                "horizontalsituation",
+                "needle",
+                "needlemid",
+                "orangecross",
+                "topflags",
+                "glideslope"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "114-general-magnetic_compass-model2",
+            "asset": "114-general-magnetic_compass-model2",
+            "position": [
+                14,
+                0.1,
+                -10.63
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5500004,
+                0.5500004,
+                0.5500004
+            ],
+            "dataref_ids": [
+                "cylinder"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "cylinder"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "115-senecaII-v1-fuel_flow-simple",
+            "asset": "115-senecaII-v1-fuel_flow-simple",
+            "position": [
+                -7.96193,
+                0.1,
+                8.547022
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5250005,
+                0.5250005,
+                0.5250005
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        }
+    ]
+}

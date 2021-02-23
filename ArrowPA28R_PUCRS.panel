@@ -1,0 +1,1008 @@
+{
+    "aircraft": {
+        "path": "arr.acf"
+    },
+    "configuration": [
+        {
+            "show_connection_status": true
+        }
+    ],
+    "info": [
+        {
+            "editor_version": "0.94.0-0-RC-x32-win [DEBUG-BUILD] [Quality:Fast]",
+            "editor_platform": "WindowsEditor",
+            "system_language": "Portuguese",
+            "unity_runtime": "4.3.2f1",
+            "ip_address": "191.4.205.23",
+            "timestamp": "2/18/2021 5:33:20 PM",
+            "timestamp_utc": "2/18/2021 8:33:21 PM"
+        }
+    ],
+    "instruments": [
+        {
+            "name": "012-senecaV-v1-generator_amps[0]",
+            "asset": "012-senecaV-v1-generator_amps[0]",
+            "position": [
+                -0.8687663,
+                3,
+                10.86423
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3250005,
+                0.3250005,
+                0.3250005
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "047-senecaII-v1-fuel[1]",
+            "asset": "047-senecaII-v1-fuel[1]",
+            "position": [
+                -4.146008,
+                3,
+                7.6
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3250005,
+                0.3250005,
+                0.3250005
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "042-senecaII-v1-fuel[0]",
+            "asset": "042-senecaII-v1-fuel[0]",
+            "position": [
+                -0.9,
+                3,
+                7.6
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3250005,
+                0.3250005,
+                0.3250005
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "0441-arrow-oil-press",
+            "asset": "0441-arrow-oil-press",
+            "position": [
+                -0.9,
+                3,
+                9.185551
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3250004,
+                0.3250004,
+                0.3250004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "040-senecaII-v1-oil_temp[0]",
+            "asset": "040-senecaII-v1-oil_temp[0]",
+            "position": [
+                -4.146008,
+                3,
+                9.185551
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.3250004,
+                0.3250004,
+                0.3250004
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "structure",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "070-general-annunciator-KA285",
+            "asset": "070-general-annunciator-KA285",
+            "position": [
+                6.071813,
+                3,
+                -8.550821
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.6000004,
+                0.6000004,
+                0.6000004
+            ],
+            "dataref_ids": [
+                "alt_off_on",
+                "ap_off_on",
+                "appr_off_on",
+                "arm_off_on",
+                "bc_off_on",
+                "cpld_off_on",
+                "fd_off_on",
+                "ga_off_on",
+                "gs_off_on",
+                "hdg_off_on",
+                "loc_off_on",
+                "nav_off_on",
+                "trim_off_on"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "alt_off",
+                "alt_on",
+                "ap_off",
+                "ap_on",
+                "appr_off",
+                "appr_on",
+                "arm_off",
+                "arm_on",
+                "base",
+                "bc_off",
+                "bc_on",
+                "cpld_off",
+                "cpld_on",
+                "fd_off",
+                "fd_on",
+                "ga_off",
+                "ga_on",
+                "gs_off",
+                "gs_on",
+                "hdg_off",
+                "hdg_on",
+                "hoop",
+                "loc_off",
+                "loc_on",
+                "nav_off",
+                "nav_on",
+                "trim_off",
+                "trim_on"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "026-general-vsalt_indicators-design_01",
+            "asset": "026-general-vsalt_indicators-design_01",
+            "position": [
+                5.634955,
+                3,
+                10.9549
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.2570004,
+                0.2570004,
+                0.2570004
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "024-general-ADI-KI256",
+            "asset": "024-general-ADI-KI256",
+            "position": [
+                6.12297,
+                3,
+                -5.054605
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7020001,
+                0.7020001,
+                0.7020001
+            ],
+            "dataref_ids": [
+                "background_translate",
+                "background_rotate",
+                "dh_on_off",
+                "hm_boomerang_on",
+                "hm_boomerang_translate",
+                "hm_boomerang_rotate",
+                "adi_pitch_translate",
+                "adi_pitch_rotate",
+                "adi_roll",
+                "adi_vbar"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "arrow",
+                "background",
+                "base",
+                "dh_off",
+                "dh_on",
+                "horizontal_marker",
+                "horizontal_marker_boomerang",
+                "mask",
+                "pitch",
+                "roll",
+                "structure"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "021-general-flap_indicator_40deg-desgin_01",
+            "asset": "021-general-flap_indicator_40deg-desgin_01",
+            "position": [
+                -10.57327,
+                3,
+                9.047153
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5000005,
+                0.5000005,
+                0.5000005
+            ],
+            "dataref_ids": [
+                "button"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "button"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "017-general-elevator_trim-design_01",
+            "asset": "017-general-elevator_trim-design_01",
+            "position": [
+                -8.105456,
+                3,
+                9.032639
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5750004,
+                0.5750004,
+                0.5750004
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "015-general-brakes_indicator-design_01",
+            "asset": "015-general-brakes_indicator-design_01",
+            "position": [
+                -4.162302,
+                3,
+                11.10803
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.28,
+                0.28,
+                0.28
+            ],
+            "dataref_ids": [
+                "light_on_off"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "hoop",
+                "light_off",
+                "light_on"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "011-general-RMI_520_3117_303",
+            "asset": "011-general-RMI_520_3117_303",
+            "position": [
+                14.36121,
+                3,
+                2.83
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7365004,
+                0.7365004,
+                0.7365004
+            ],
+            "dataref_ids": [
+                "button_left",
+                "button_right",
+                "disc",
+                "needle_1_rmi_left_use",
+                "needle_1_psi_vac",
+                "needle_1_adf1",
+                "needle_1_nav1",
+                "needle_2_rmi_right_use",
+                "needle_2_psi_vac",
+                "needle_2_adf2",
+                "needle_2_nav2"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "background",
+                "button_left_horizontal",
+                "button_left_vertical",
+                "button_right_horizontal",
+                "button_right_vertical",
+                "disc",
+                "disc_mid",
+                "indicators",
+                "needle_1",
+                "needle_2",
+                "octagon",
+                "octagram",
+                "top"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "007-general-VSI-united_instruments_7000",
+            "asset": "007-general-VSI-united_instruments_7000",
+            "position": [
+                -2.74,
+                3,
+                2.83
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.8,
+                0.8,
+                0.8
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "004-general-thermometer-design_01",
+            "asset": "004-general-thermometer-design_01",
+            "position": [
+                -9.413713,
+                3,
+                5.079735
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.2750004,
+                0.2750004,
+                0.2750004
+            ],
+            "dataref_ids": [
+                "degree_type",
+                "degree_value",
+                "degree_value",
+                "degree_value",
+                "degree_value"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "degree_symbol"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "002-general-VOR2-MD200_206",
+            "asset": "002-general-VOR2-MD200_206",
+            "position": [
+                22.01723,
+                0.1,
+                -5.21253
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.6435003,
+                0.6435003,
+                0.6435003
+            ],
+            "dataref_ids": [
+                "compass",
+                "flags",
+                "needle",
+                "vertneedle",
+                "flaggs"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "compass",
+                "flags",
+                "guides",
+                "led",
+                "needle",
+                "vertneedle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "108-Arrow-warnings",
+            "asset": "108-Arrow-warnings",
+            "position": [
+                -5.130014,
+                -10,
+                -10.85008
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.9250001,
+                0.9250001,
+                0.125
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "107-general-DME",
+            "asset": "107-general-DME",
+            "position": [
+                6.181499,
+                0.1,
+                -0.1282375
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.2,
+                0.7000003,
+                0.2
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "106-Arrow-Manifold-FuelFlow",
+            "asset": "106-Arrow-Manifold-FuelFlow",
+            "position": [
+                14.54964,
+                0.1,
+                9.25
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5700001,
+                0.5700001,
+                0.5700001
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "105-Arrow-EGT",
+            "asset": "105-Arrow-EGT",
+            "position": [
+                -9.353781,
+                0.3,
+                1.529296
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.4500001,
+                0.4500001,
+                0.4500001
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "104-Arrow-Gyro",
+            "asset": "104-Arrow-Gyro",
+            "position": [
+                -9.33777,
+                0.2,
+                -3.453035
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.4500001,
+                0.4500001,
+                0.4500001
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "103-Arrow-RPM",
+            "asset": "103-Arrow-RPM",
+            "position": [
+                21.6273,
+                0.1,
+                9.25
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5550001,
+                0.5550001,
+                0.5550001
+            ],
+            "dataref_ids": [
+                
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "102-Arrow-Airspeed",
+            "asset": "102-Arrow-Airspeed",
+            "position": [
+                14.43322,
+                0.2,
+                -5.212531
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.8,
+                0.8,
+                0.8
+            ],
+            "dataref_ids": [
+                "needle"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "disc",
+                "hoop",
+                "needle"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "110-general-clock_LC_2_WM",
+            "asset": "110-general-clock_LC_2_WM",
+            "position": [
+                21.47875,
+                0.1,
+                -10.27023
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.075,
+                0.075,
+                0.075
+            ],
+            "dataref_ids": [
+                "composed-timer"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "111-general_altimeter_v2",
+            "asset": "111-general_altimeter_v2",
+            "position": [
+                -2.59,
+                0.1,
+                -5.212531
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.8,
+                0.8,
+                0.8
+            ],
+            "dataref_ids": [
+                "needle100",
+                "needle1000",
+                "needle10000"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "background",
+                "button",
+                "detail",
+                "disc_center",
+                "millibars",
+                "inhg",
+                "hoop",
+                "needle100",
+                "needle1000",
+                "needle10000",
+                "zebra_indicator"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "113-HSI-PUC-FACA",
+            "asset": "113-HSI-PUC-FACA",
+            "position": [
+                6.096395,
+                0.1,
+                4.644552
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.7000003,
+                0.7000003,
+                0.7000003
+            ],
+            "dataref_ids": [
+                "compass",
+                "flags-flag",
+                "flags-rot",
+                "gsmarker",
+                "hdg",
+                "needle",
+                "needlemid-trans",
+                "needlemid-rot",
+                "topflags",
+                "glideslope"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "basetop",
+                "compass",
+                "flags",
+                "gsmarker",
+                "hdg",
+                "horizontalsituation",
+                "needle",
+                "needlemid",
+                "orangecross",
+                "topflags",
+                "glideslope"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "114-general-magnetic_compass-model2",
+            "asset": "114-general-magnetic_compass-model2",
+            "position": [
+                -9.348314,
+                0.2,
+                -8.058301
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5250005,
+                0.5250005,
+                0.5250005
+            ],
+            "dataref_ids": [
+                "cylinder"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "base",
+                "cylinder"
+            ],
+            "image_values": [
+                
+            ]
+        },
+        {
+            "name": "112-general-turn_coordinator-new",
+            "asset": "112-general-turn_coordinator-new",
+            "position": [
+                21.90721,
+                0.3,
+                2.83
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.6750004,
+                0.6750004,
+                0.6750004
+            ],
+            "dataref_ids": [
+                "roll",
+                "slip"
+            ],
+            "dataref_values": [
+                
+            ],
+            "image_ids": [
+                "bars",
+                "base",
+                "roll",
+                "slip"
+            ],
+            "image_values": [
+                
+            ]
+        }
+    ]
+}
